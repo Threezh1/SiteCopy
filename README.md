@@ -47,7 +47,7 @@ Python版本: 3.7
 
 运行截图：
 
-![image](images/pic_11.jpg)
+![pic_11.jpg](https://s2.ax1x.com/2019/12/12/QcnOp9.jpg)
 
 目录截图：
 
