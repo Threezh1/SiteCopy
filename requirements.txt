@@ -1,0 +1,5 @@
+bs4
+Path
+asyncio
+argparse
+functools
