@@ -10,6 +10,8 @@ sitecopy is a tool that facilitates personal website backup and network data col
 - 作者: Threezh1
 - 博客: http://www.threezh1.com/
 
+关于SiteCopy的开发记录：[论如何优雅的复制一个网站的所有页面](https://xz.aliyun.com/t/6941)
+
 对互联网任何网站的复制需在取得授权后方可进行，若使用者因此做出危害网络安全的行为后果自负，与作者无关，特此声明。
 
 ## 使用
